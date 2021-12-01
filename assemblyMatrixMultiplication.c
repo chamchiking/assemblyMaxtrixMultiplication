@@ -1,5 +1,3 @@
-// This code is for 430.322 Project #2
-// Student ID        : 2016-15051
 // Student name      : mincheol cha
 // Student email     : chamj61047@snu.ac.kr
 
